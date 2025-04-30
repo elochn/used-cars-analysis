@@ -1,5 +1,4 @@
-# used-cars-analysis
-Used Cars Price Analysis
+# Used Cars Price Analysis
 This project explores the factors that influence the price of used cars, with a focus on assessing whether certain modifications (F1–F4) could help increase resale value.
 
 📊 Objective
